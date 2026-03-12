@@ -5,11 +5,7 @@ My project's architecture is the following: i have all my files (except this rea
 In 'methods', you will find all my methods used for both exercises.
 In 'main', you will find only variables, and calls to my methods.
 
-readme
-lib -- main
-
-// Posted by René Link, modified by community. See post 'Timeline' for change history
-// Retrieved 2026-03-12, License - CC BY-SA 4.0
+Here is my repository architecture 'visually'
 
  +-  README.md
  |
@@ -22,4 +18,3 @@ lib -- main
                     +-- 00_menu.rb
                     |
                     +-- 01_functions.rb
-           
