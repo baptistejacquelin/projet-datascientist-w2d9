@@ -23,12 +23,9 @@ Here is my repository architecture 'visually'
         |          |
         |          +-- 01\_cryptocurrencies.rb
         |
-
-&#x09;|
+        |
         +- methods +-- 00\_functions.rb
         	   |
-
-&#x09;	   +-- 00\_menu.rb
+	           +-- 00\_menu.rb
        	           |
-		   +-- 01\_functions.rb
-
+	           +-- 01\_functions.rb
